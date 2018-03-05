@@ -16,13 +16,13 @@
 
         </div>
         <nav class="nav landing row d-flex justify-content-center d-none">
-            <div class="col-2 d-flex justify-content-center ">
+            <div class="col-sm-12 col-md-2 d-flex justify-content-center ">
                 <a href="#" class="nav-item kaire liurliur ">virtuvei</a>
             </div>
-            <div class="col-2 d-flex justify-content-center ">
+            <div class="col-sm-12 col-md-2 d-flex justify-content-center ">
                 <a href="office_home.php" class="nav-item centras liurliur">ofisui</a>
             </div>
-            <div class="col-2 d-flex justify-content-center">
+            <div class="col-sm-12 col-md-2 d-flex justify-content-center">
                 <a href="#" class="nav-item desine liurliur">namams</a>
             </div>
         </nav>

@@ -92,12 +92,13 @@ a:link {
 }
 
 .logas {
-    min-height: 70vh;
+    height: 70vh;
 }
 #logo {
     position: absolute;
     top: 25vh;
     height: 20vh;
+    max-width: 90vw;
 
 }
 a.liurliur {
@@ -338,12 +339,31 @@ input.formos {
 }
     main.office {
     width: 100%;
+}
+
+
 
 }
+
+@media (max-width: 540px) {
+    #logo {
+        top: 10vh;
+    }
+    .logas {
+        height: 50vh;
+    }
+    a.liurliur {
+        font-size: 1.5rem;
+    }
+
+
+}
+
 @media (max-width: 680px) {
 main.office {
     width: 120%;
 }
+
 }
 
 @media (min-width: 720px) {
