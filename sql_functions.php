@@ -110,16 +110,6 @@ function createPItem($pavadinimas, $img_path, $description, $type_for_order) {
     }
 }
 
-// createPItem('kede1', 'kede2.jpg','Lorem ipsum dolor sit amet, consectetur adipisicing elit,', '1');
-// createPItem('kede2', 'kede3.jpg','Lorem ipsum dolor sit amet, consectetur adipisicing elit,', '1');
-// createPItem('kede3', 'kede4.jpg','Lorem ipsum dolor sit amet, consectetur adipisicing elit,', '1');
-// createPItem('kede4', 'kede5.jpg','Lorem ipsum dolor sit amet, consectetur adipisicing elit,', '1');
-// createPItem('sofa1', 'sofa1.jpg','Lorem ipsum dolor sit amet, consectetur adipisicing elit,', '2');
-// createPItem('sofa2', 'sofa2.jpg','Lorem ipsum dolor sit amet, consectetur adipisicing elit,', '2');
-// createPItem('stalas1', 'stalas1.jpg','Lorem ipsum dolor sit amet, consectetur adipisicing elit,', '3');
-// createPItem('stalas2', 'stalas2.jpg','Lorem ipsum dolor sit amet, consectetur adipisicing elit,', '3');
-// createPItem('stalas3', 'stalas3.jpg','Lorem ipsum dolor sit amet, consectetur adipisicing elit,', '3');
-
 
 
 

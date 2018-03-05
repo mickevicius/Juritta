@@ -1,4 +1,4 @@
-<foter class="dugnas container">
+<footer class="dugnas container">
     <div class="row  justify-content-center">
         <div class="col-8 text-center">
 
@@ -9,7 +9,7 @@
             <a href="contacts.php"> <img id="icons" src="./images/mob.svg" alt=""> </a>
         </div>
     </div>
-</foter>
+</footer>
 
 <div class=" container modal fade" id="uzklausos_forma" role="dialog">
     <div class="row modal-dialog sokas">

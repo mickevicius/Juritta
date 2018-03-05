@@ -6,7 +6,7 @@ require_once ('main_header.php');
 
  <main class="office container">
      <div class="header"></div>
-    <div class="contacts row">
+     <div class="contacts row">
         <section class="col-4">
             <div class="parth row">
                 <div class="col-12">
@@ -30,9 +30,6 @@ require_once ('main_header.php');
             <div id="map">    </div>
         </map>
     </div>
-
-
-
 
   </main>
 

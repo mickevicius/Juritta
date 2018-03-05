@@ -1,11 +1,11 @@
 <?php
-error_reporting(E_ALL);
-ini_set('display_errors', 'on');
+// error_reporting(E_ALL);
+// ini_set('display_errors', 'on');
 
 
 $actual_link = 'http://'.$_SERVER['HTTP_HOST'];
         // echo "pries email siuntima";
-print_r($actual_link);
+// print_r($actual_link);
 
 
 
@@ -19,7 +19,7 @@ $mailo = $_GET['pastas'];
 require_once 'libs/PHPMailer-master/PHPMailerAutoload.php';
 
 $mail = new PHPMailer(true);                              // Passing `true` enables exceptions
-try {
+// try {
 
     $mail->SMTPOptions = array(
         'ssl' => array(
@@ -75,6 +75,6 @@ try {
             <script> history.back(); </script>";
     }
     // echo 'Message has been sent';
-} catch (Exception $e) {
-    // echo 'Message could not be sent. Mailer Error: ', $mail->ErrorInfo;
-}
+// } catch (Exception $e) {
+//     // echo 'Message could not be sent. Mailer Error: ', $mail->ErrorInfo;
+// }
